@@ -1,0 +1,1 @@
+export const SPREADSHEET_SCOPE ='https://www.googleapis.com/auth/spreadsheets'
